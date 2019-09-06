@@ -1,6 +1,6 @@
 {
   "name": "@ruiyun/fastify-config-loader",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "fastify-config-loader",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "author": "wen911119@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "fastify-plugin": "^1.5.0",
-    "lodash": "^4.17.11"
+    "fastify-plugin": "^1.6.0",
+    "lodash": "^4.17.15"
   },
   "peerDependencies": {
     "fastify": "^2.1.0"
